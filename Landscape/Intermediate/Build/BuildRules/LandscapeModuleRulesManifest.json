@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\LandscapeMain\\Landscape\\Intermediate\\Source\\Landscape.Build.cs",
+		"C:\\LandscapeMain\\Landscape\\Intermediate\\Source\\Landscape.Target.cs",
+		"C:\\LandscapeMain\\Landscape\\Intermediate\\Source\\LandscapeClient.Target.cs",
+		"C:\\LandscapeMain\\Landscape\\Intermediate\\Source\\LandscapeEditor.Target.cs",
+		"C:\\LandscapeMain\\Landscape\\Intermediate\\Source\\LandscapeServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
